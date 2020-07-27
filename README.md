@@ -4,8 +4,8 @@ this is prediction of covid-19 rate of infection<br />
 for this you should install matplotlib for animation and plotting graph<br />
 numpy for powerfull calculations<br />
 INSTALLAION:<br />
-   pip install matplotlib<br />
-   pip install numpy<br />
+___pip install matplotlib<br />
+___pip install numpy<br />
 in your cmd or terminal<br />
 usage:<br />
-  just run virus.py<br />
+__just run virus.py<br />
